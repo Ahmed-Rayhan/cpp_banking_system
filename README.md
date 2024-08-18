@@ -1,5 +1,5 @@
 # Banking System Application in C++ 
-##AHMED RAYHAN
+Author: AHMED RAYHAN
 
 This C++ program is a simple console-based banking system that allows users to perform various operations such as opening an account, making deposits, withdrawals, checking account balances, and more.
 
